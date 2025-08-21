@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style1.css" type="text/css" media="all"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <title>ROZAY'S COLLECTION </title>
+    
+  </head>
+  <body>
+    <header>
+      <div class="nav-bar">
+      <div class="logo">
+        ROZAY'S COLLECTION
+      </div>
+      <nav class="links"id="links">
+        <ul>
+          <li><a href="#"active>HOME</a></li>
+          <li><a href="#">ABOUT</a></li>
+          <li><a href="#">CONTACT</a></li>
+          <li><a href="#">SERVICE </a></li>
+        </ul>
+        <i class="fa fa-serach.png"></i>
+        <input type="search" placeholder="Search your designs">
+      </nav>
+      </div>
+      </header>
+      <main>
+        <h1>HOME OF FASHION</h1>
+       <div class="container">
+        <img src="/project1/IMG-20250726-WA0366.jpg"alt="sneaker">
+        <img src="/project1/IMG-20250726-WA0378.jpg"alt="sneaker">
+        <img src="/project1/IMG-20250725-WA0253.jpg"alt="cloth">
+        <img src="/project1/IMG-20250727-WA0019.jpg"alt="Force">
+        <img src="/project1/736a2a66d74d49b1aaee57b1c1d6528e.jpg"alt="cloth">
+        <img src="/project1/IMG-20250727-WA0024.jpg"alt="sneaker "
+        </div>
+      </main>
+      <button class="btn"type="submit">LEARN MORE </button>
+    <aside>
+      <h3>CHECKOUT OUR EXCLUSIVE OFFER'S</h3>
+      <img id="img" src="/project1/IMG-20250726-WA0370.jpg"alt="snaeker">
+     <p>THIS VANS COST GH¢250 WITH A FREE AIRPOD.</p>
+     <img id="img1"src="/project1/8f4763d3466e4a8ca742b7ed024ce412.jpg"alt="cloth">
+     <p>CHECKOUT THE NEW DESIGN'S EVISU THAT COST GH¢200</p>
+     <img id="img2"src="/project1/IMG-20250725-WA0230.jpg"alt="Designed socks">
+      <p>THE AMERI, BAPE AND OTHER DESIGN SOCK FOR EVERYONE</p>
+    </aside>
+    <section class="images">
+    </section>
+    <div class="hero">
+      <h2>ABOUT US </h2>
+      <p2>Welcome to ROZAY'S Collection, your premier fashion destination in Obuasi, Ghana! Located near Frank Trading Enterprise, we offer a wide selection of stylish and high-quality clothing, sneakers, socks, and bags for men, women, and kids.  
+
+At ROZAY'S Collection, we believe that fashion should be accessible, trendy, and comfortable. Whether you're looking for the latest sneaker drops, fashionable outfits, durable bags, or cozy socks, we’ve got you covered. Our carefully curated collection ensures that you always find something to match your unique style.  
+ <br><br>
+Our mission is to provide exceptional customer service and top-notch products at affordable prices. We take pride in helping our customers look and feel their best every day.  
+<br>
+Visit us today at our Obuasi location and explore the best in fashion. ROZAY'S Collection—where style meets quality!  
+<br>
+Locatoion: Near Frank Trading Enterprise, Obuasi, Ghana  What We Offer: Clothing | Sneakers | Socks | Bags  
+<br>
+Thank you for choosing ROZAY'S Collection—your trusted fashion partner!</p2>
+<br>
+    </div>
+    <div class="feature">
+      <h4>SEND US A MESSAGE </h4>
+      <label for="">FULLNAME:<input type="text"></label>
+      <label for="">EMAIL:<input type="text"placeholder="Email address"></label>
+      <label for="">MESSAGE :<textarea row="10"column="16">
+        
+      </textarea></label>
+      <button>SEND</button> 
+    </div>
+  </body>
+</html>tml>
